@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8e4f86e5f2692743b49f9576d76e6bb, type: 3}
+  m_Name: AWeapon
+  m_EditorClassIdentifier: 
+  weaponName: Test Gun
+  weaponFunctionality: {fileID: 11400000, guid: b4ecfa728af0c8549a905b55f49c2ea3, type: 2}
+  weaponSprite: {fileID: 0}
+  projectile: {fileID: 8653947425477173723, guid: 66a98cf64d924a241b8771e049d08a60, type: 3}
+  damage: 0
+  magic: 0
+  clipSize: 0
+  clip: 0
+  attackSpeed: 0
+  reloadTime: 0
+  speed: 20
